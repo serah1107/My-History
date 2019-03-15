@@ -8,12 +8,13 @@
 
 <프로젝트>
 
-| 날짜                    | 프로젝트이름                                    | 주제     | 
-| :--------------------- | ---------------------------------------- | ------ | 
-|2018.12.01~2018.12.16 | [이론통계학2 개인 R Shiny](https://pphonyohyeyun.shinyapps.io/bankruptcy_ohy/) | 기업부도예측| |
-|2018.12.01~2018.12.16 | [이론통계학2 개인 R Shiny](https://pphonyohyeyun.shinyapps.io/demand_ohy/) | 수요 예측 |
-|2018.12.01~2018.12.16 | [이론통계학2 개인 R Shiny](https://pphonyohyeyun.shinyapps.io/option_hy/) | 옵션 가격 계산 | 
-|2018.12.01~2018.12.16 | [이론통계학2 개인 R Shiny](https://pphonyohyeyun.shinyapps.io/crm_ohy/) | CRM | 
+| 날짜                    | 프로젝트이름                                    |
+| :--------------------- | ---------------------------------------- |
+[이론통계학2]
+|2018.12.01~2018.12.16 | [R Shiny-기업 부도 예측](https://pphonyohyeyun.shinyapps.io/bankruptcy_ohy/) | 
+|2018.12.01~2018.12.16 | [R Shiny- 수요 예측](https://pphonyohyeyun.shinyapps.io/demand_ohy/) | 
+|2018.12.01~2018.12.16 | [R Shiny-옵션 가격 계산](https://pphonyohyeyun.shinyapps.io/option_hy/) | 
+|2018.12.01~2018.12.16 | [R Shiny- CRM](https://pphonyohyeyun.shinyapps.io/crm_ohy/) | 
 <교육>
 
 | 날짜                    | 공모전이름                                    | 주제     | 결과   |
