@@ -42,7 +42,7 @@
 
 | Date                    | Program                                  | Details     | Result   |
 | :--------------------- | ---------------------------------------- | ------ | ---- |
-|2018.07.01~2018.08.31 |한국데이터진흥원 연세대학교 Python 교육 프로그램( Python Data Anaylsis Program) | Python 기반 빅데이터 처리 및 분석, 하둡, 스파크 ( Python Big Data Processing, Analysis, Hadoop, Spark)| 수료 |
+|2018.07.01~2018.08.31 |[한국데이터진흥원 연세대학교 Python 교육 프로그램( Python Data Anaylsis Program)](https://github.com/serah1107/Education) | Python 기반 빅데이터 처리 및 분석, 하둡, 스파크 ( Python Big Data Processing, Analysis, Hadoop, Spark)| 수료 |
 
 ---------------------------------------
 
