@@ -26,7 +26,7 @@
 |2018.12.01~2018.12.16 | [R Shiny- CRM](https://pphonyohyeyun.shinyapps.io/crm_ohy/) | CRM|
 |2018.12.01~2018.12.16  | [Cat image Classification](https://github.com/serah1107/Statistics-Graduate/blob/master/2018-02%20Class/Financial%20Engineering/Final%20Project%20CIFAR10.ipynb) | 고양이 이미지 분류
 |2018.08.10~2018.08.31 | [Seoul Bicycle Demand Prediction](https://github.com/serah1107/Education/tree/master/Python%20Education%20Program%202018/%EB%94%B0%EB%A6%89%EC%9D%B4%20Project) | 따릉이 수요 예측 모델 개발|
-|2017.07.01~2017.10.15 | [Bachelor's thesis]() | MNIST Classification using Weighted Graph Laplacian and SVD|
+|2017.07.01~2017.10.15 | [Bachelor's thesis](https://github.com/serah1107/Statistics-Computational-Science--Undergraduate/blob/master/Bachelor's%20Thesis/C%2B%2B%20Codes%20of%20Thesis.txt) | MNIST Classification using Weighted Graph Laplacian and SVD|
 
 
 * #### Kaggle 
