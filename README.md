@@ -7,7 +7,7 @@
 #### Contests
 
 | Date                    | Details                                   | Subject     |
-| :--------------------- | ---------------------------------------- | ------ | ---- |
+| :--------------------- | ---------------------------------------- | ------ | 
 |2019.07.17~ | [빅콘테스트 2019 (Big Contest)](https://github.com/serah1107/Big-Contest.git) | 게임유저 잔존가치를 고려한 고객 이탈 예측 모형 (챔피언리그)|    
 |2019.07.15~| [문화 관광 빅데이터 콘테스트(Culture & Tourism Big Data Contest)]() |  
 |2019.01.01~2019.01.16 | [L.Point빅데이터콘테스트 (L.Point Big Data Contest)]|(https://github.com/serah1107/Contests/tree/master/Lpoint%20Trend%20Prediction%20based%20on%20Online%20Behavior) | 온라인 행동 기반 트렌드 예측 |
