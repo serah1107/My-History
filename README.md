@@ -1,8 +1,7 @@
 # My History
 
-### All Projects I did 
+> All Projects I did 
 
----------------------------------------
 
 * #### Contests 
 
