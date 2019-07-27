@@ -19,7 +19,7 @@
 | Date                    | Details                                    |Subject     | 
 | :--------------------- | ---------------------------------------- | ------ |
 |2019.05.01~2019.06.06 | [Naver Webtoon Popularity Prediction](https://github.com/serah1107/Statistics-Graduate/tree/master/2019-03%20Class/Data%20Mining/NAVER%20Webtoon%20Popularity%20Prediction%20(Team%20Project)) | 네이버웹툰 인기도 예측|
-|2019.06.15~2019.06.17 | [DengAI: Predicting Disease Spread](https://github.com/serah1107/Statistics-Graduate/blob/master/2019-03%20Class/Bayesian/project/DengAI%20Spread%20Prediction%20Using%20BNN%20%26%20Bayesian%20Quantile%20Regression.pdf) | 뎅기열 확산 사례수 데이터를 이용한 분위 회귀 모형 및 머신러닝 예측|
+|2019.06.15~2019.06.17 | [DengAI: Predicting Disease Spread](https://github.com/serah1107/Statistics-Graduate/tree/master/2019-03%20Class) | 뎅기열 확산 사례수 데이터를 이용한 분위 회귀 모형 및 머신러닝 예측|
 |2018.12.01~2018.12.16 | [R Shiny-Bankruptcy Prediction](https://pphonyohyeyun.shinyapps.io/bankruptcy_ohy/) | 기업 부도 예측|
 |2018.12.01~2018.12.16 | [R Shiny- Demand Prediction](https://pphonyohyeyun.shinyapps.io/demand_ohy/) | 수요 예측|
 |2018.12.01~2018.12.16 | [R Shiny-Option Price Calculation](https://pphonyohyeyun.shinyapps.io/option_hy/) | 옵션 가격 계산|
@@ -33,7 +33,7 @@
 
 | Date                    | Details                                    |Subject     | 
 | :--------------------- | ---------------------------------------- | ------ |
-|2019.06.10~2019.06.15| [Google App Store REVIEWS Sentimental Analysis & LDA Topic Model](https://github.com/serah1107/Kaggle/blob/master/Google%20App%20Store/Google%20App%20Store%20Reviews%20Sentimental%20Analysis%20%26%20Topic%20Model.ipynb) | 구글 앱스토어 리뷰 감성분석 및 토픽분석|
+|2019.06.10~2019.06.15| [Google App Store REVIEWS Sentimental Analysis & LDA Topic Model](https://github.com/serah1107/Statistics-Graduate/blob/master/2019-03%20Class/Text%20Mining/Final%20Project_Kaggle/Google%20App%20Store%20Reviews%20Sentimental%20Analysis%20%26%20Topic%20Model.ipynb) | 구글 앱스토어 리뷰 감성분석 및 토픽분석|
 |2019.03.27~2019.03.29| [Rosemann Store Sales Prediction](https://github.com/serah1107/Kaggle/blob/master/Rosemann%20Sales/Rosemann%20Sales%20Prediction.R) | 스토어 수요 예측|
 
 ---------------------------------------
