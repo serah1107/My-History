@@ -55,7 +55,7 @@
 |2016.07.01~2016.08.31 | SK BroadBand Data Analysis Intern 
 
 
-#### 교환학생
+#### Exchange Student
 
 | Date                    | Details                                 | 
 | :--------------------- | ---------------------------------------- | 
