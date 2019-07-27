@@ -2,6 +2,7 @@
 
 > All Projects I did 
 
+-------------------------------------------
 
 * #### Contests 
 
@@ -12,7 +13,6 @@
 |2019.01.01~2019.01.16 | [L.Point빅데이터콘테스트 (L.Point Big Data Contest)](https://github.com/serah1107/Contests/tree/master/Lpoint%20Trend%20Prediction%20based%20on%20Online%20Behavior) | 온라인 행동 기반 트렌드 예측 | 
 |2018.09.01~2018.09.14 | [빅콘테스트 2018 (Big Contest)](https://github.com/serah1107/Contests/tree/master/Big%20Contest%202018_Movies%20Demand%20Prediction) | 영화 최종 관객수 예측 (퓨처스리그)  |  
 
----------------------------------------
 
 * #### Projects 
 
@@ -28,7 +28,6 @@
 |2018.08.10~2018.08.31 | [Seoul Bicycle Demand Prediction](https://github.com/serah1107/Education/tree/master/Python%20Education%20Program%202018/%EB%94%B0%EB%A6%89%EC%9D%B4%20Project) | 따릉이 수요 예측 모델 개발|
 |2017.07.01~2017.10.15 | [Bachelor's thesis]() | MNIST Classification using Weighted Graph Laplacian and SVD|
 
----------------------------------------
 
 * #### Kaggle 
 
