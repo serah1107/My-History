@@ -1,7 +1,7 @@
 # My History
 
 > Bachelor of Statistics and Computational Science , Master of Statistics. 
-> All the details about projects and studies below.
+> Please see all the details about projects and studies below.
 
 -------------------------------------------
 
