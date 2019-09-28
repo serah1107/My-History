@@ -7,7 +7,7 @@
 * #### Thesis
 | Date                    | Details                                   | Subject     | 
 | :--------------------- | ---------------------------------------- | ------ |  
-|2019.09.20~ | [Master's thesis] | Prediction of Road Accident Severity :Comparing the Ordered Probit Model and Machine Learning Models|
+|2019.09.20~ | Master's thesis | Prediction of Road Accident Severity :Comparing the Ordered Probit Model and Machine Learning Models|
 |2017.07.01~2017.10.15 | [Bachelor's thesis](https://github.com/serah1107/Statistics-Computational-Science--Undergraduate/blob/master/Bachelor's%20Thesis/C%2B%2B%20Codes%20of%20Thesis.txt) | MNIST Classification using Weighted Graph Laplacian and SVD|
 
 
